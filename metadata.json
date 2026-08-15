@@ -1,0 +1,7 @@
+{
+  "name": "XYZ XRAT Admin",
+  "description": "Remote Device Management & Admin Control Console with Live Screen, Camera, Alarm Lock V2, and Network Telemetry",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
